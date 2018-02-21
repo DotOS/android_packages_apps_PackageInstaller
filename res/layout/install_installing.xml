@@ -61,8 +61,7 @@
                 android:layout_height="92dp"
                 android:layout_marginBottom="12dp"
                 android:contentDescription="@null"
-                android:tint="@color/bigIconColor"
-                android:src="@drawable/ic_file_download" />
+                android:src="@drawable/ic_file_download_bw" />
 
         <ProgressBar
                 android:id="@+id/progress_bar"
