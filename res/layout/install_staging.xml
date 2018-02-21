@@ -39,8 +39,7 @@
                 android:layout_height="24dp"
                 android:layout_marginLeft="16dp"
                 android:scaleType="fitCenter"
-                android:src="@drawable/ic_file_download"
-                android:tint="?android:attr/colorAccent" />
+                android:src="@drawable/ic_file_download_bw" />
 
         <TextView android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -69,8 +68,7 @@
                 android:scaleType="fitCenter"
                 android:layout_marginBottom="12dp"
                 android:contentDescription="@null"
-                android:tint="@color/bigIconColor"
-                android:src="@drawable/ic_file_download" />
+                android:src="@drawable/ic_file_download_bw" />
 
         <ProgressBar
                 style="?android:attr/progressBarStyleHorizontal"
