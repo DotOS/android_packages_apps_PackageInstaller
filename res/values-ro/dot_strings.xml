@@ -15,8 +15,8 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <!-- Version checks -->
-  <string name="from_version">De La Versiunea</string>
-  <string name="to_version">la</string>
-  <string name="new_package_version">versiunea</string>
+    <!-- Version checks -->
+    <string name="from_version">De La Versiunea</string>
+    <string name="to_version">la</string>
+    <string name="new_package_version">versiunea</string>
 </resources>
